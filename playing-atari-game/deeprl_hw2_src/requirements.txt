@@ -9,4 +9,5 @@ protobuf>=3.0
 pydot-ng
 scipy
 semver
+tensorflow
 -e .

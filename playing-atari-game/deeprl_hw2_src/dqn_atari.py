@@ -149,7 +149,7 @@ def main():  # noqa: D103
     # then you can run your fit method.
 
     env = gym.make('Breakout-v0')
-
+    env.reset()
 
     # Preprocess image
     preprocess_network = preprocessors.PreprocessorSequence('network')
@@ -160,7 +160,7 @@ def main():  # noqa: D103
     DG = policy.LinearDecayGreedyEpsilonPolicy('attr_name', 1, 0.1, 1000000)
 
     # Create model from Atari paper
-    model = create_model(window=4, input_shape=(84, 84), num_actions=6)
+    model = create_model(window=4, input_shape=(84, 84), num_actions=4)
 
     # load weights
     location = '/'
