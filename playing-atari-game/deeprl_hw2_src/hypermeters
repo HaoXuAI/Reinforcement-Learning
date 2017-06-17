@@ -1,0 +1,5 @@
+Num of iterations:10
+Max epsidoe length:10
+Num of episodes:10
+Replay memory:10
+Discount factor:0.99

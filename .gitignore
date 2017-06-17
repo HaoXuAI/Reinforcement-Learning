@@ -1,0 +1,22 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+.idea
+
+deeprl_hw1
+DeepRL_Homework_1.egg-info
+DeepRL_Homework_2.egg-info
+materials
+
+rl
+
+10703_hw1.pdf
+10703_hw2.pdf
+
+Frozenlake.aux
+Frozenlake.log
+Frozenlake.tex
+stachostic-4x4.png
+Deterministic-4x4.png
+algorithm.png
+algorithm2.png
+FrozenLake.synctex.gz
