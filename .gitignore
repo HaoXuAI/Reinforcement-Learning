@@ -1,21 +1,3 @@
 # Created by .ignore support plugin (hsz.mobi)
 
 .idea
-.DS_Store
-
-*.egg-info
-materials
-
-deeprl_hw2
-
-10703_hw1.pdf
-10703_hw2.pdf
-
-Frozenlake.aux
-Frozenlake.log
-Frozenlake.tex
-stachostic-4x4.png
-Deterministic-4x4.png
-algorithm.png
-algorithm2.png
-FrozenLake.synctex.gz
