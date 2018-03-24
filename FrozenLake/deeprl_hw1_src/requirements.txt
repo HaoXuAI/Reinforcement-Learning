@@ -1,5 +1,7 @@
 future
 gym
 numpy
+scipy
+matplotlib
 six
 -e .

@@ -1,10 +1,9 @@
 # Created by .ignore support plugin (hsz.mobi)
 
 .idea
+.DS_Store
 
-deeprl_hw1
-DeepRL_Homework_1.egg-info
-DeepRL_Homework_2.egg-info
+*.egg-info
 materials
 
 deeprl_hw2
